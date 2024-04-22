@@ -32,7 +32,7 @@ GitHub Repository: [MSci Project Cpp](https://github.com/ocabrown/MSci_Project_C
 
 I followed a YouTube tutorial to create this, my first game, using Unity. It is a take on / recreation of the infamous Flappy Bird game. I have added some extra components to it since completing the tutorial.
 
-GitHub Repository: [Flappy Bird Recreation](https://github.com/ocabrown/FlappyBirdRecreation)
+GitHub Repository: [Flappy Bird Recreation](https://github.com/ocabrown/FlappyBirdReproduction)
 
 
 ## You can find me on:
