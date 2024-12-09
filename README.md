@@ -6,8 +6,8 @@
 
 - 🔭 I studied an MSci in Physics (specialising in astrophysics) at Imperial College London where I gained my Python skills
 - 🤓 Since, I have learnt C++ and put my knowledge to the test by recreating my MSci Project in C++
-- 🧐 I am about to move back to London and start a Udemy course on Game Development / C++ and Unreal Engine
-- 👾 Finally, I am interested in going into programming in the Game Development world!
+- 👾 I am about to move back to London and start a Udemy course on Game Development / C++ and Unreal Engine
+- 🧐 I am interested in going into the academic world by studying for a PhD!
 
 
 
