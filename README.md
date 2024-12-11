@@ -19,7 +19,7 @@
 
 A collection of Python projects, which tackle various astrophysical problems to showcase the uses of different numerical methods.
 
-GitHub Repository: [Numerical_Methods_in_Astrophysics](https://github.com/ocabrown/Numerical_Methods_in_Astrophysics)
+GitHub Repository: [Numerical Methods in Astrophysics](https://github.com/ocabrown/Numerical_Methods_in_Astrophysics)
 
 
 ### MSci Project (in Python)
